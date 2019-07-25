@@ -1,5 +1,3 @@
-# WebApp to find food recipies using food2fork API
-
 ## Instructions:
 To install npm modules execute:
 **npm install**
