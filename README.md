@@ -1,12 +1,15 @@
-To install npm modules execute:
->npm install
+# WebApp to find food recipies using food2fork API
 
-This will install the modules listed as dependencies in the package.json file.
+## Instructions:
+To install npm modules execute:
+**npm install**
+
+This will install the modules listed as dependencies in the **package.json** file.
 
 To run either execute
->npm start
+**npm start**
 or 
->node server.js
+**node server.js**
 
 To see the JSON object returned by the openweather.org API use your browser to visit:
 http://localhost:3000/recipes/?ingredients=Basil,Cumin
