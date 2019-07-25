@@ -17,11 +17,12 @@ or any other ingredients you want to try.
 
 To see the **app** version use your browser to visit:
 http://localhost:3000
+#
 
-### Tested on:
+## Tested on:
 Google Chrome
 
-### OS:
+## OS:
 Windows 10
 
 When you make a search for the ingredients just give it like 5 seconds to find the search.
