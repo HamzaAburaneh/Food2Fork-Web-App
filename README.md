@@ -24,4 +24,4 @@ Google Chrome
 Windows 10
 
 ## Note: 
-When you make a search for the ingredients just give it like 5 seconds to find the search.
+When you make a search for the ingredients just give it Approximately 5 seconds to find the search.
